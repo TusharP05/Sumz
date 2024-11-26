@@ -7,7 +7,7 @@ const Hero = () => {
         <img src='src\assets\logo.svg' alt='logo' className='w-28 object-contain'/>
         <button  type='button'
         onClick={()=>
-        window.open ('https://www.instagram.com/tushar__parakh/')} 
+        window.open ('https://www.instagram.com/dynamite__karan987/')} 
         className='black_btn'>
         Instagram
         </button>
